@@ -6,9 +6,11 @@ Name: Module 4 - Problem Set 3
 Description: Problem 1
 """
 
-""" IPO template - use to document functions/methods
+""" 
+IPO
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 Input(s): 
-Processes: 
+Process(es): 
 Output(s): 
 """
 
